@@ -7,36 +7,36 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
+    year: 2020
+  - course: MTech in polymer Technology
+    institution: Delhi Technical University
+    year: 2014
+  - course: BTech in Biotech Engineering
+    institution: Amity University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Chansi
 organizations:
-- name: Stanford University
+- name: Amity University of Nano Medicine
   url: ""
-role: Professor of Artificial Intelligence
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+role: Assistant Teacher 
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
