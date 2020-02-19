@@ -5,13 +5,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Nano Science and Technology
+    institution: Amity University
     year: 2020
-  - course: MTech in polymer Technology
+  - course: M.Tech in polymer Technology
     institution: Delhi Technical University
     year: 2014
-  - course: BTech in Biotech Engineering
+  - course: B.Tech in Biotech Engineering
     institution: Amity University
     year: 2012
 email: ""
@@ -23,7 +23,7 @@ name: Chansi
 organizations:
 - name: Amity University of Nano Medicine
   url: ""
-role: Assistant Teacher 
+role: Teaching Assitant cum Researcher
 #social:
 #- icon: envelope
 #  icon_pack: fas
