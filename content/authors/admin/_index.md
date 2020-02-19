@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interest lies in biosensor fabrication for toxin detection, surface modification of nanomaterials, electrochemistry.
   matter.
 education:
   courses:
@@ -14,7 +14,7 @@ education:
   - course: B.Tech in Biotech Engineering
     institution: Amity University, Noida, India
     year: 2012
-email: ""
+email: "chansigupta.arya@gmail.com"
 interests:
 - Biosensor fabrication for toxin detection
 - Surface modification of nanomaterials
@@ -22,7 +22,7 @@ interests:
 name: Chansi
 organizations:
 - name: Amity University of Nano Medicine
-  url: ""
+  url: "https://www.amity.edu/"
 role: Teaching Assistant -cum- Researcher
 #social:
 #- icon: envelope
