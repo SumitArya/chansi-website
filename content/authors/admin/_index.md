@@ -16,14 +16,14 @@ education:
     year: 2012
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- biosensor fabrication for toxin detection
+- surface modification of nanomaterials
+- electrochemistry
 name: Chansi
 organizations:
 - name: Amity University of Nano Medicine
   url: ""
-role: Teaching Assitant cum Researcher
+role: Teaching Assistant -cum- Researcher
 #social:
 #- icon: envelope
 #  icon_pack: fas
@@ -43,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chansi is currently working as Teaching Assistant -cum- Researcher in Institute of Nano Medicine, Amity University, Noida, India. She is pursuing her Ph.D in Nanotechnology from Amity Institute of Nano Technology, Noida, India and received her M.Tech in Polymer Technology from a prestiguous universoity, Delhi Technological University, Delhi, India in 2014. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She  worked as senior research fellow in National agriculture Science(NASF) funded project at Amity University, Noida. She has published 1 research article and has filed 4 Indian patents. She is working in area of synthesis metal organic Framework by various methods (eg. Solvothermal,electrochemical), fabrication of MOF relied biosensors for detection of organophosphate pesticides. 
