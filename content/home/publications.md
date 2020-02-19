@@ -57,7 +57,7 @@ subtitle = ""
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-	text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -67,6 +67,3 @@ subtitle = ""
  css_class = ""
 +++
 
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
