@@ -5,7 +5,7 @@ bio: My research interest lies in biosensor fabrication for toxin detection, sur
   matter.
 education:
   courses:
-  - course: PhD in Nano Technology
+  - course: PhD in Nanoscience and Nanotechnology
     institution: Amity University, Noida, India
     year: 2020
   - course: M.Tech in Polymer Technology
