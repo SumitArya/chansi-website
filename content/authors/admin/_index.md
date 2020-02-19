@@ -8,10 +8,10 @@ education:
   - course: PhD in Nano Technology
     institution: Amity University, Noida, India
     year: 2020
-  - course: M.Tech in polymer Technology
+  - course: M.Tech in Polymer Technology
     institution: Delhi Technical University, Delhi, India
     year: 2014
-  - course: B.Tech in Biotech Engineering
+  - course: B.Tech in Biotechnology
     institution: Amity University, Noida, India
     year: 2012
 email: "chansigupta.arya@gmail.com"
