@@ -34,11 +34,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Research Fellow"
-  company = "National Agriculture Science(NASF) Funded"
-  company_url = ""
+  company = "Amity University of Nano Technology"
+  company_url = "https://amity.edu/"
   location = "Noida, India"
-  date_start = "2019-12-31"
-  date_end = "2016-12-31"
+  date_start = "2017-03-01"
+  date_end = "2019-12-31"
   description = """
   Responsibilities include:
   
