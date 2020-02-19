@@ -23,10 +23,10 @@
 #  url = "#featured"
 #  weight = 40
 
-[[main]]
-  name = "Conferences"
-  url = "#publications"
-  weight = 20
+#[[main]]
+#  name = "Conferences"
+#  url = "#publications"
+#  weight = 20
    
 [[main]]
   name = "Experience"
