@@ -5,20 +5,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Nano Science and Technology
-    institution: Amity University
+  - course: PhD in Nano Technology
+    institution: Amity University, Noida, India
     year: 2020
   - course: M.Tech in polymer Technology
-    institution: Delhi Technical University
+    institution: Delhi Technical University, Delhi, India
     year: 2014
   - course: B.Tech in Biotech Engineering
-    institution: Amity University
+    institution: Amity University, Noida, India
     year: 2012
 email: ""
 interests:
-- biosensor fabrication for toxin detection
-- surface modification of nanomaterials
-- electrochemistry
+- Biosensor fabrication for toxin detection
+- Surface modification of nanomaterials
+- Electrochemistry
 name: Chansi
 organizations:
 - name: Amity University of Nano Medicine
