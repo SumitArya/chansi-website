@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -31,12 +31,43 @@ date_format = "Jan 2006"
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Introduction to R Programming"
+  url = "https://www.edx.org/course/introduction-to-r-for-data-science-2"
+  certificate_url = "https://s3.amazonaws.com/verify.edx.org/downloads/e2e52e3f46214376ace75cb41ca78836/Certificate.pdf"
+  date_start = "2015-09-04"
+  date_end = ""
+  description = "Learn the R statistical programming language, the lingua franca of data science in this hands-on course."
+  
+  
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Explore Statistics with R"
+  url = "https://www.edx.org/course"
+  certificate_url = "https://s3.amazonaws.com/verify.edx.org/downloads/3646f839359d4e47a291865bcf00615b/Certificate.pdf"
+  date_start = "2014-10-23"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Introduction to Computer Science andProgramming Using Python"
+  url = "https://www.edx.org/course/introduction-to-computer-science-and-programming-7"
+  certificate_url = "https://s3.amazonaws.com/verify.edx.org/downloads/8883ac8ed91949ecb46eb852af111900/Certificate.pdf"
+  date_start = "2015-08-15"
+  date_end = ""
+  description = "An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5."
+
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Introduction to Linux"
+  url = "https://www.edx.org/course/introduction-to-linux"
+  certificate_url = "https://s3.amazonaws.com/verify.edx.org/downloads/8e615bb5f5c34ec09f81b3007e645a8d/Certificate.pdf"
+  date_start = "2014-08-15"
+  date_end = ""
+  description = "Develop a good working knowledge of Linux using both the graphical interface and command line across the major Linux distribution families."
   
 [[item]]
   organization = "DataCamp"
