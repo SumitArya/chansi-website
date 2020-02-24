@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   location = "Delhi, India"
   date_start = "2015-01-19"
   date_end = ""
-  description = """Responsible to design, develop, test, and maintain core model & processing systems."""
+  description = """
   Responsibilities include:
   
   * Machine Learning
