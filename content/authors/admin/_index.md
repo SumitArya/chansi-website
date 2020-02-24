@@ -13,9 +13,9 @@ education:
     year: 2011
 email: "sumitgupta.arya@gmail.com"
 interests:
-- Biosensor fabrication for toxin detection
-- Surface modification of nanomaterials
-- Electrochemistry
+- Machine learning
+- Data Modeling
+- Data Visulisation
 name: Sumit Gupta
 organizations:
 - name: Assured Risk Cover Inc.
@@ -41,4 +41,5 @@ user_groups:
 ---
 
 Sumit Gupta is a Data Scientist at Assured Risk Cover, based in Delhi, India office. He is responsible to develop different functionalities, modules and interfaces based on the core model and integrate it with ARC products using R language and other open source packages. He developed an automated interface for collection, cleansing and formatting, historical and current season hurricane data published by NOAA, which is used for animate hurricane track and claims payment. Sumit created a claims module for loss assessment to claims settlement during the hurricane season. He also focused on several scripts to help the company operate efficiently, which includes welcome emails to new customer, generate the commission for agents each month, portfolio claims report to share with the insurer during the hurricane season, portfolio risk analysis and so on. He undertakes development efforts and works closely in preparing, designing and executing the strategies with the executive team of the organisation. 
-He earned master’s degree in Computer Science & Engineering Technology with a distinction and bachelor’s in Computer Science and Engineering. Prior to his master's, he worked as a lecturer at a private university for a year. He has more than 5 years of experience in the field of data science and has been granted several domain certifications. 
+
+He earned master’s degree in Computer Science & Engineering Technology with a distinction and bachelor’s in Computer Science & Engineering. He has more than 5 years of experience in the field of data science and has been granted several domain certifications. 
