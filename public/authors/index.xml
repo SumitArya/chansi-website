@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Sumit Gupta</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Sumit Gupta</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -17,8 +17,8 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Data Scientist at Assured Risk Cover, based in Delhi, India office &amp;amp; a freelancer. Responsible to develop different functionalities, modules and interfaces based on the core model and integrate it with ARC products using R language and other open source packages. Developed an automated interface for collection, cleansing and formatting, historical and current season hurricane data published by NOAA, which is used for animate hurricane track and claims payment. I have also created a claims module for loss assessment to claims settlement during the hurricane season. Also focused on several scripts to help the company operate efficiently, which includes welcome emails to new customer, generate the commission for agents each month, portfolio claims report to share with the insurer during the hurricane season, portfolio risk analysis and so on. Undertakes development efforts and works closely in preparing, designing and executing the strategies with the executive team of the organisation.&lt;/p&gt;
+&lt;p&gt;I received my Master degree in Computer Science &amp;amp; Engineering Technology from JSS Academy of Technocal Education, Noida with a distinction. Prior to master&amp;rsquo;s, i recived my  bachelor degree in Computer Science &amp;amp; Engineering. He has more than 5 years of experience in the field of data science and has been granted several domain certifications.&lt;/p&gt;
 </description>
     </item>
     
