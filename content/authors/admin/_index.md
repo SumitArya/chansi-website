@@ -2,7 +2,6 @@
 authors:
 - admin
 bio: My research covers modeling, data visualization, data wrangling, portfolio analysis, report creation using statistical programming language R.
-  matter.
 education:
   courses:
   - course: M.Tech in Computer Science and Technology
