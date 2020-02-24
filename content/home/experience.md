@@ -42,13 +42,13 @@ date_format = "Jan 2006"
   title = "Data Scientist"
   company = "Assured Risk Cover Inc."
   company_url = "http://www.assuredriskcover.com/"
-  location = "Noida, India"
+  location = "Delhi, India"
   date_start = "2015-01-19"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Machine learning
+  * Machine Learning
   * Data Modeling
   * Data Visulisation
   """
