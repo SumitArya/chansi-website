@@ -22,13 +22,13 @@ date_format = "Jan 2006"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "DeepSkyBlue"
+   gradient_end = "SkyBlue"
   
   # Background image.
-  image = "accomplishments.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  #image = "accomplishments.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true  
