@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = dark  
+  #text_color_light = dark  
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
