@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "background.jpg"  # Name of image in `static/img/`.
+  image = "accomplishments.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
@@ -39,15 +39,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Neural Networks and Deep Learning"
+#  url = ""
+#  certificate_url = "https://www.coursera.org"
+#  date_start = "2018-10-01"
+#  date_end = ""
+#  description = ""
 
 [[item]]
   organization = "edX"
