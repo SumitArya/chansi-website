@@ -19,7 +19,7 @@ interests:
 name: Sumit Gupta
 organizations:
 - name: Assured Risk Cover Inc.
-  url: "https://www.assuredriskcover.com/"
+  url: "http://www.assuredriskcover.com/"
 role: Data Scientist
 #social:
 #- icon: envelope
