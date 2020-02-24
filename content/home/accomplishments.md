@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true  
+  text_color_light = dark  
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -90,14 +90,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Develop a good working knowledge of Linux using both the graphical interface and command line across the major Linux distribution families."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+#[[item]]
+#  organization = "DataCamp"
+#  organization_url = "https://www.datacamp.com"
+#  title = "Object-Oriented Programming in R: S3 and R6 Course"
+#  url = ""
+#  certificate_url = "https://www.datacamp.com"
+#  date_start = "2017-07-01"
+#  date_end = "2017-12-21"
+#  description = ""
 
 +++
