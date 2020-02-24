@@ -39,33 +39,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant -cum- Researcher"
-  company = "Amity University of Nano Medicine"
-  company_url = "https://amity.edu/"
+  title = "Data Scientist"
+  company = "Assured Risk Cover Inc."
+  company_url = "http://www.assuredriskcover.com/"
   location = "Noida, India"
-  date_start = "2020-02-01"
+  date_start = "2015-01-19"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "Senior Research Fellow"
-  company = "Amity University of Nano Technology"
-  company_url = "https://amity.edu/"
-  location = "Noida, India"
-  date_start = "2017-03-01"
-  date_end = "2019-12-31"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Machine learning
+  * Data Modeling
+  * Data Visulisation
   """
 
 +++
