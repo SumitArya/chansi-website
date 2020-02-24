@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Certifications"
-  url = "#accomplishments.md"
+  url = "#accomplishments"
   weight = 40
 
 #[[main]]

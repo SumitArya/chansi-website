@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   certificate_url = "https://s3.amazonaws.com/verify.edx.org/downloads/8883ac8ed91949ecb46eb852af111900/Certificate.pdf"
   date_start = "2015-08-15"
   date_end = ""
-  description = "An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5."
+  description = "An introduction to computer science as a tool to solve real-world analytical problems using Python."
 
 [[item]]
   organization = "edX"
