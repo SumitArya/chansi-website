@@ -1,29 +1,26 @@
 ---
 authors:
 - admin
-bio: My research interest lies in biosensor fabrication for toxin detection, surface modification of nanomaterials, electrochemistry.
+bio: My research covers modeling, data visualization, data wrangling, portfolio analysis, report creation using statistical programming language R.
   matter.
 education:
   courses:
-  - course: PhD in Nanoscience and Nanotechnology
-    institution: Amity University, Noida, India
-    year: 2020
-  - course: M.Tech in Polymer Technology
-    institution: Delhi Technical University, Delhi, India
+  - course: M.Tech in Computer Science and Technology
+    institution: JSS Academy of Technical Education, Noida, India
     year: 2014
-  - course: B.Tech in Biotechnology
-    institution: Amity University, Noida, India
-    year: 2012
-email: "chansigupta.arya@gmail.com"
+  - course: B.Tech in Computer Science and Technology
+    institution: JSS Academy of Technical Education, Noida, India
+    year: 2011
+email: "sumitgupta.arya@gmail.com"
 interests:
 - Biosensor fabrication for toxin detection
 - Surface modification of nanomaterials
 - Electrochemistry
-name: Chansi
+name: Sumit Gupta
 organizations:
-- name: Amity University of Nano Medicine
-  url: "https://www.amity.edu/"
-role: Teaching Assistant -cum- Researcher
+- name: Assured Risk Cover Inc.
+  url: "https://www.assuredriskcover.com/"
+role: Data Scientist
 #social:
 #- icon: envelope
 #  icon_pack: fas
@@ -43,6 +40,5 @@ user_groups:
 - Visitors
 ---
 
-Chansi is currently working as Teaching Assistant -cum- Researcher in Institute of Nano Medicine, Amity University, Noida, India. She is pursuing her Ph.D in Nanotechnology from Amity Institute of Nano Technology, Noida, India and received her M.Tech in Polymer Technology from a prestiguous universoity, Delhi Technological University, Delhi, India in 2014. 
-
-She  worked as senior research fellow in National agriculture Science(NASF) funded project at Amity University, Noida. She has published 1 research article and has filed 4 Indian patents. She is working in area of synthesis metal organic Framework by various methods (eg. Solvothermal,electrochemical), fabrication of MOF relied biosensors for detection of organophosphate pesticides. 
+Sumit Gupta is a Data Scientist at Assured Risk Cover, based in Delhi, India office. He is responsible to develop different functionalities, modules and interfaces based on the core model and integrate it with ARC products using R language and other open source packages. He developed an automated interface for collection, cleansing and formatting, historical and current season hurricane data published by NOAA, which is used for animate hurricane track and claims payment. Sumit created a claims module for loss assessment to claims settlement during the hurricane season. He also focused on several scripts to help the company operate efficiently, which includes welcome emails to new customer, generate the commission for agents each month, portfolio claims report to share with the insurer during the hurricane season, portfolio risk analysis and so on. He undertakes development efforts and works closely in preparing, designing and executing the strategies with the executive team of the organisation. 
+He earned master’s degree in Computer Science & Engineering Technology with a distinction and bachelor’s in Computer Science and Engineering. Prior to his master's, he worked as a lecturer at a private university for a year. He has more than 5 years of experience in the field of data science and has been granted several domain certifications. 
