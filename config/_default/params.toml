@@ -11,6 +11,11 @@
 #   Browse user installed themes in `data/themes/`
 theme = "Minimal"
 
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+custom_css = ["blue.css"]
+custom_js  = []
+
 # Enable users to switch between day and night mode?
 day_night = false
 
