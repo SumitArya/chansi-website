@@ -1,0 +1,2 @@
+https://sumitgupta.netlify.com/*  http://sumitgupta.rbind.io/:splat  301!
+http://sumitgupta.netlify.com/*  http://sumitgupta.rbind.io/:splat  301!
